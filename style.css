@@ -1,0 +1,29 @@
+body {
+    margin-left:33%;
+    margin-right:33%;
+    margin-top:3%;
+    background-color:#b4903c;
+    font-family:Comic Sans MS;
+}
+
+h1 {
+    text-align:center;
+}
+
+h2 {
+    text-align:center;
+}
+
+p {
+    text-align:justify;
+}
+
+table, tr, td, th {
+    border:2px solid black;
+    border-collapse:collapse;
+}
+
+th, td {
+    height:25px;
+    width:50%;
+}
